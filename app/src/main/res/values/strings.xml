@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My 1a2b</string>
+    <string name="name">Input your name</string>
+    <string name="enter">Enter</string>
+    <string name="delete">Delete</string>
+    <string name="clear">Clear</string>
+    <string name="rounds">Rounds</string>
+    <string name="digits">Input four digits</string>
+    <string name="start">Start</string>
+    <string name="new_game">new game</string>
+    <string name="round">Round</string>
+    <string name="input">Input</string>
+    <string name="result">Result</string>
+    <string name="welcome">Welcome!</string>
+    <string name="solution">Solution</string>
+    <string name="blank"> </string>
+    <string name="round_6">6</string>
+    <string name="round_8">8</string>
+    <string name="round_10">10</string>
+</resources>
